@@ -7,7 +7,7 @@ Autor:
 
 
 
-![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Facecards.com%2Fproducts%2Fcharacter-vocal-series-01-1-7th-scale-hatsune-miku-with-solwa&psig=AOvVaw1NhCyh-aAFEN4GjQQin5IO&ust=1716632919133000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDYpo2KpoYDFQAAAAAdAAAAABAS)) 
+![Cultura Digital]((https://www.google.com/url?sa=i&url=https%3A%2F%2Facecards.com%2Fproducts%2Fcharacter-vocal-series-01-1-7th-scale-hatsune-miku-with-solwa&psig=AOvVaw1NhCyh-aAFEN4GjQQin5IO&ust=1716632919133000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDYpo2KpoYDFQAAAAAdAAAAABAS)) 
 
 
 
