@@ -6,7 +6,6 @@
 Autor: 
 
 
-Fecha: 
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
