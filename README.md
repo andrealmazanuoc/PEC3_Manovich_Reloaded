@@ -70,7 +70,7 @@ Tanto Hatsune Miku como teamLab representan ejemplos destacados de hibridación 
 * TeamLab. (2024). *About us*. TeamLab. Disponible en: https://www.teamlab.art/about/
 * Metrópolis. (2019). *TeamLab.* RTVE.es.
   Disponible en: https://www.rtve.es/television/20190514/teamlab/1934327.shtml
-* Japan National Tourism Organization. (2023). *EPSON TeamLab Borderless: MORI Building DIGITAL ART MUSEUM. Japan National Tourism Organization.*
+* Japan National Tourism Organization. (2023). *EPSON TeamLab Borderless: MORI Building DIGITAL ART MUSEUM.*
   Disponible en: https://www.japan.travel/es/spot/2035/
 
 
