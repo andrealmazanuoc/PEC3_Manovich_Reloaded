@@ -13,6 +13,7 @@ El concepto de hibridación de medios según Lev Manovich es central para entend
 
 
 
+
 ## Re-descubriendo la hibridacion: Hatsune Miku.
 <div style="display: flex; justify-content: center; align-items: center; ">
   <img src="Imagenes/logo miku.jpeg" alt="Texto alternativo" width=20%">
@@ -31,10 +32,11 @@ Visualmente, Hatsune Miku es representada como una adolescente de cabello turque
 </div> 
 Concierto de Hatsune Miku: https://www.youtube.com/watch?v=jhl5afLEKdo
 
+
 ## Re-descubriendo la hibridacion: TeamLab.
 
 <div>
-  <img src="Imagenes/logo team lab.png" alt="lOGO TEAMLAB" width=40% >
+  <img src="Imagenes/team logo no fondo.png" alt="lOGO TEAMLAB" width=30% >
 </div> 
 
 TeamLab es un colectivo artístico interdisciplinario fundado en Tokio en 2001, conocido por sus instalaciones de arte digital que combinan proyecciones, luces LED, espejos y sensores para crear entornos envolventes (TeamLab, 2024). La obra de teamLab representa una hibridación de arte, tecnología y naturaleza, donde cada elemento se integra para formar una experiencia inmersiva y participativa.
@@ -51,6 +53,7 @@ La experiencia inmersiva es otro elemento clave de la hibridación de medios en 
   <img src="Imagenes/teamlab.jpeg" alt="lOGO TEAMLAB">
 </div> 
 Exposición teamLab: https://www.youtube.com/watch?v=nDlav2FTBmQ
+
 
 
 ## Conclusión 
