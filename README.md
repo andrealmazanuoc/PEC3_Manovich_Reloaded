@@ -3,17 +3,6 @@
 
 Autor: Andrea Almazán Gamero
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; padding-right: 10px; vertical-align: top;">
-      <img src="Imagenes/logo miku no fondo.png" alt="Descripción de la imagen">
-    </td>
-    <td style="border: none; vertical-align: top;">
-     Hatsune Miku es un avatar digital y una cantante virtual creada por Crypton Future Media utilizando el software de síntesis de voz Vocaloid desarrollado por Yamaha. Desde       su debut en 2007, Hatsune Miku se ha convertido en un ícono global, no solo en la industria musical sino también en la cultura popular. La esencia de Hatsune Miku radica        en su naturaleza híbrida, combinando la tecnología de síntesis de voz, la animación 3D y la participación activa de una comunidad global de productores y fans. (Navarro,        2023)
-    </td>
-  </tr>
-</table>
-
 
 
 
