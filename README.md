@@ -16,7 +16,7 @@ El concepto de hibridación de medios según Lev Manovich es central para entend
 
 ## Re-descubriendo la hibridacion: Hatsune Miku.
 <div style="display: flex; justify-content: center; align-items: center; ">
-  <img src="Imagenes/logo miku.jpeg" alt="Texto alternativo" width=20%">
+  <img src="Imagenes/logo miku no fondo.png" alt="Logo Hatsune Miku" width=40%">
 </div> 
 
 Hatsune Miku es un avatar digital y una cantante virtual creada por Crypton Future Media utilizando el software de síntesis de voz Vocaloid desarrollado por Yamaha. Desde su debut en 2007, Hatsune Miku se ha convertido en un ícono global, no solo en la industria musical sino también en la cultura popular. La esencia de Hatsune Miku radica en su naturaleza híbrida, combinando la tecnología de síntesis de voz, la animación 3D y la participación activa de una comunidad global de productores y fans. (Navarro, 2023)
@@ -36,7 +36,7 @@ Concierto de Hatsune Miku: https://www.youtube.com/watch?v=jhl5afLEKdo
 ## Re-descubriendo la hibridacion: TeamLab.
 
 <div>
-  <img src="Imagenes/team logo no fondo.png" alt="lOGO TEAMLAB" width=30% >
+  <img src="Imagenes/team logo no fondo.png" alt="lOGO TEAMLAB" width=25% >
 </div> 
 
 TeamLab es un colectivo artístico interdisciplinario fundado en Tokio en 2001, conocido por sus instalaciones de arte digital que combinan proyecciones, luces LED, espejos y sensores para crear entornos envolventes (TeamLab, 2024). La obra de teamLab representa una hibridación de arte, tecnología y naturaleza, donde cada elemento se integra para formar una experiencia inmersiva y participativa.
@@ -50,7 +50,7 @@ El concepto de hibridación en teamLab también se manifiesta en su integración
 La experiencia inmersiva es otro elemento clave de la hibridación de medios en el trabajo de teamLab. Las instalaciones están diseñadas para sumergir a los visitantes en un entorno tridimensional donde los límites entre el espectador y la obra de arte se desdibujan. Esta inmersión se logra mediante el uso de tecnología avanzada y diseño espacial, creando un flujo continuo de imágenes y sonidos que envuelven a los participantes, creando una experiencia sensorial total (Metrópolis, 2019).
 
 <div>
-  <img src="Imagenes/teamlab.jpeg" alt="lOGO TEAMLAB">
+  <img src="Imagenes/teamlab.jpeg" alt="exposición teamlab">
 </div> 
 Exposición teamLab: https://www.youtube.com/watch?v=nDlav2FTBmQ
 
