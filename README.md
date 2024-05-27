@@ -29,6 +29,7 @@ Visualmente, Hatsune Miku es representada como una adolescente de cabello turque
 <div>
   <img src="Imagenes/miku.avif" alt="Hatsune Miku en un espacio futurista">
 </div> 
+Concierto de Hatsune Miku: https://www.youtube.com/watch?v=jhl5afLEKdo
 
 ## Re-descubriendo la hibridacion: TeamLab.
 
@@ -47,8 +48,10 @@ El concepto de hibridación en teamLab también se manifiesta en su integración
 La experiencia inmersiva es otro elemento clave de la hibridación de medios en el trabajo de teamLab. Las instalaciones están diseñadas para sumergir a los visitantes en un entorno tridimensional donde los límites entre el espectador y la obra de arte se desdibujan. Esta inmersión se logra mediante el uso de tecnología avanzada y diseño espacial, creando un flujo continuo de imágenes y sonidos que envuelven a los participantes, creando una experiencia sensorial total (Metrópolis, 2019).
 
 <div>
-  <img src="Imagenes/teamlab.jpeg" alt="lOGO TEAMLAB" >
+  <img src="Imagenes/teamlab.jpeg" alt="lOGO TEAMLAB">
 </div> 
+Exposición teamLab: https://www.youtube.com/watch?v=nDlav2FTBmQ
+
 
 ## Conclusión 
 
