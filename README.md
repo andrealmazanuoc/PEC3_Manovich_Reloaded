@@ -62,16 +62,16 @@ Tanto Hatsune Miku como teamLab representan ejemplos destacados de hibridación 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* Navarro, C. (2023). Hatsune Miku, un fenómeno idol virtual. CSEU La Salle. 
+* Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
+* Navarro, C. (2023). *Hatsune Miku, un fenómeno idol virtual*. CSEU La Salle. 
   Disponible en: https://www.lasallecentrouniversitario.es/hatsune-miku/
-* Shiba Tomonori (2023) Hatsune Miku: la diva electrónica que trajo la revolución musical del siglo XXI. nippon.com.
+* Shiba Tomonori (2023) *Hatsune Miku: la diva electrónica que trajo la revolución musical del siglo XXI*. nippon.com.
   Disponible en: https://www.nippon.com/es/japan-topics/g01038/
-* TeamLab. (2024). About us. TeamLab. Disponible en: https://www.teamlab.art/about/
-* Metrópolis. (2019). TeamLab. RTVE.es.
+* TeamLab. (2024). *About us*. TeamLab. Disponible en: https://www.teamlab.art/about/
+* Metrópolis. (2019). *TeamLab.* RTVE.es.
   Disponible en: https://www.rtve.es/television/20190514/teamlab/1934327.shtml
-* Japan National Tourism Organization. (2023). EPSON TeamLab Borderless: MORI Building DIGITAL ART MUSEUM. Japan National Tourism Organization. 
-  Disnponible en: https://www.japan.travel/es/spot/2035/
+* Japan National Tourism Organization. (2023). *EPSON TeamLab Borderless: MORI Building DIGITAL ART MUSEUM. Japan National Tourism Organization.*
+  Disponible en: https://www.japan.travel/es/spot/2035/
 
 
 
