@@ -16,7 +16,7 @@ El concepto de hibridación de medios según Lev Manovich es central para entend
 
 ## Re-descubriendo la hibridacion: Hatsune Miku.
 <div style="display: flex; justify-content: center; align-items: center; ">
-  <img src="Imagenes/logo miku no fondo.png" alt="Logo Hatsune Miku" width=40%">
+  <img src="Imagenes/logo miku no fondo.png" alt="Logo Hatsune Miku" width=50%">
 </div> 
 
 Hatsune Miku es un avatar digital y una cantante virtual creada por Crypton Future Media utilizando el software de síntesis de voz Vocaloid desarrollado por Yamaha. Desde su debut en 2007, Hatsune Miku se ha convertido en un ícono global, no solo en la industria musical sino también en la cultura popular. La esencia de Hatsune Miku radica en su naturaleza híbrida, combinando la tecnología de síntesis de voz, la animación 3D y la participación activa de una comunidad global de productores y fans. (Navarro, 2023)
@@ -36,7 +36,7 @@ Concierto de Hatsune Miku: https://www.youtube.com/watch?v=jhl5afLEKdo
 ## Re-descubriendo la hibridacion: TeamLab.
 
 <div>
-  <img src="Imagenes/team logo no fondo.png" alt="lOGO TEAMLAB" width=25% >
+  <img src="Imagenes/team logo no fondo.png" alt="lOGO TEAMLAB" width=30% >
 </div> 
 
 TeamLab es un colectivo artístico interdisciplinario fundado en Tokio en 2001, conocido por sus instalaciones de arte digital que combinan proyecciones, luces LED, espejos y sensores para crear entornos envolventes (TeamLab, 2024). La obra de teamLab representa una hibridación de arte, tecnología y naturaleza, donde cada elemento se integra para formar una experiencia inmersiva y participativa.
@@ -60,9 +60,10 @@ Exposición teamLab: https://www.youtube.com/watch?v=nDlav2FTBmQ
 
 Tanto Hatsune Miku como teamLab representan ejemplos destacados de hibridación en el arte y la cultura contemporáneos, tal como se explora en *El software toma el mando* de Lev Manovich (2014). Hatsune Miku fusiona música, tecnología y participación comunitaria para crear una experiencia musical única y colaborativa. Por otro lado, teamLab integra arte, tecnología y naturaleza para diseñar instalaciones inmersivas y dinámicas que transforman la percepción del espacio y la interacción artística. Ambos fenómenos demuestran cómo la hibridación y la tecnología digital están reconfigurando las fronteras del arte, permitiendo nuevas formas de creación y participación que antes eran inimaginables. En este contexto, el software no solo toma el mando, sino que también abre nuevas posibilidades para la expresión y la experiencia artística en el siglo XXI.
 
+
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
+* Manovich, Lev. (2014). *El Software toma el mando*. Barcelona: Editorial UOC.
 * Navarro, C. (2023). *Hatsune Miku, un fenómeno idol virtual*. CSEU La Salle. 
   Disponible en: https://www.lasallecentrouniversitario.es/hatsune-miku/
 * Shiba Tomonori (2023) *Hatsune Miku: la diva electrónica que trajo la revolución musical del siglo XXI*. nippon.com.
