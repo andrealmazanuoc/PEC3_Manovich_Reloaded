@@ -1,13 +1,8 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
 
+Autor: Andrea Almazán Gamero
 
-Autor: 
-
-
-
-![](https://github.com/andrealmazanuoc/PEC3_Manovich_Reloaded/blob/main/miku.webp) 
 
 
 
@@ -18,10 +13,10 @@ El concepto de hibridación de medios según Lev Manovich es central para entend
 
 
 
-## Re-descubriendo la hibridacion: Hatsune Miku: La Fusión de Música y Tecnología
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/andrealmazanuoc/PEC3_Manovich_Reloaded/blob/main/miku.webp" alt="Texto alternativo" width=40%">
-  <div style=" margin-left=20px;" > 
+## Re-descubriendo la hibridacion: Hatsune Miku.
+<div style="display: flex; justify-content: center; align-items: center; ">
+  <img src="Imagenes/logo miku.jpeg" alt="Texto alternativo" width=20%">
+</div> 
 
 Hatsune Miku es un avatar digital y una cantante virtual creada por Crypton Future Media utilizando el software de síntesis de voz Vocaloid desarrollado por Yamaha. Desde su debut en 2007, Hatsune Miku se ha convertido en un ícono global, no solo en la industria musical sino también en la cultura popular. La esencia de Hatsune Miku radica en su naturaleza híbrida, combinando la tecnología de síntesis de voz, la animación 3D y la participación activa de una comunidad global de productores y fans. (Navarro, 2023)
 
@@ -31,9 +26,15 @@ Esta participación de la comunidad no solo permite que los fans sean meros cons
 
 Visualmente, Hatsune Miku es representada como una adolescente de cabello turquesa, diseñada por el artista Kei Garou. Su imagen se ha vuelto icónica, apareciendo en conciertos en vivo como un holograma 3D (Navarro, 2023). Estos conciertos son experiencias híbridas en sí mismas, fusionando la música en vivo, la animación y la tecnología de proyección holográfica para crear actuaciones que desafían las convenciones tradicionales de los conciertos. Los asistentes no solo escuchan la música, sino que también experimentan una presencia digital interactiva que trasciende la realidad física, creando experiencias multisensoriales que difuminan las líneas entre diferentes formas de arte y entretenimiento.
 
+<div>
+  <img src="Imagenes/miku.avif" alt="Hatsune Miku en un espacio futurista">
+</div> 
 
+## Re-descubriendo la hibridacion: TeamLab.
 
-## Re-descubriendo la hibridacion: TeamLab: La Convergencia de Arte, Tecnología y Naturaleza
+<div>
+  <img src="Imagenes/logo team lab.png" alt="lOGO TEAMLAB" width=40% >
+</div> 
 
 TeamLab es un colectivo artístico interdisciplinario fundado en Tokio en 2001, conocido por sus instalaciones de arte digital que combinan proyecciones, luces LED, espejos y sensores para crear entornos envolventes (TeamLab, 2024). La obra de teamLab representa una hibridación de arte, tecnología y naturaleza, donde cada elemento se integra para formar una experiencia inmersiva y participativa.
 
@@ -45,7 +46,9 @@ El concepto de hibridación en teamLab también se manifiesta en su integración
 
 La experiencia inmersiva es otro elemento clave de la hibridación de medios en el trabajo de teamLab. Las instalaciones están diseñadas para sumergir a los visitantes en un entorno tridimensional donde los límites entre el espectador y la obra de arte se desdibujan. Esta inmersión se logra mediante el uso de tecnología avanzada y diseño espacial, creando un flujo continuo de imágenes y sonidos que envuelven a los participantes, creando una experiencia sensorial total (Metrópolis, 2019).
 
-
+<div>
+  <img src="Imagenes/teamlab.jpeg" alt="lOGO TEAMLAB" >
+</div> 
 
 ## Conclusión 
 
